@@ -1,4 +1,4 @@
-[![Java RGB Color Display](https://yt-embed.herokuapp.com/embed?v=agElCfhVwtw)](https://youtu.be/agElCfhVwtw "RGB Display")
+[![Java RGB Color Display](https://i.ibb.co/VjS8m2X/Screenshot-490.png)](https://youtu.be/agElCfhVwtw "RGB Display")
 
 # RGBdisplay
 Type in an RGB value to see its visual color equivalent. 
